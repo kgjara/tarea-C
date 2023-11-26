@@ -1,0 +1,3 @@
+admin A admin_pass
+bodeguero B bodeguero_pass
+vendedor V vendedor_pass
